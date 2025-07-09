@@ -1,0 +1,5 @@
+filterpy
+numpy
+pandas
+scipy
+vegas
