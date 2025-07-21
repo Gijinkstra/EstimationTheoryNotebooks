@@ -13,4 +13,5 @@ pip install -r requirements.txt
 - [Introductory](./intro)
 - [Kalman filter](./kalman)
 - [SysID](./sysid)
+- [Bayesian methods](./bayesian)
 
