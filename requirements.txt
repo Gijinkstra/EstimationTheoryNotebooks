@@ -5,3 +5,5 @@ scipy
 vegas
 casadi
 nfoursid
+torch
+tqdm
