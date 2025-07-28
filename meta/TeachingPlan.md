@@ -70,3 +70,11 @@
 - WC 13 April 2026
 - Day 1: [SysID](../sysid/sysid_basic.ipynb) and [n4sid](../sysid/n4sid.ipynb) (1.5hr); tutorial (1.5hr)
 - Day 2: [Physics-informed NNs](../neural/pinn.ipynb) (3hr); tutorial in parallel
+
+## Coursework Assignments
+
+## Assessment Plan
+
+- Coursework to be released on 
+- Deadline:
+- Interviews:
