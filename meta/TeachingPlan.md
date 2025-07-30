@@ -19,7 +19,7 @@
    4. [KF Variants](../kalman/4_kalman_variants.ipynb)
    5. [EKF](../kalman/5_ekf.ipynb)
 3. System identification
-   1. [Estimation of Matrix $A$](../sysid/sysid_basic.ipynb)
+   1. [Estimation of Matrix *A*](../sysid/sysid_basic.ipynb)
    2. [N4SID](../sysid/n4sid.ipynb)
 4. Bayesian estimation
    1. [Intro to optimisation](../bayesian/1_optimization.ipynb)
@@ -31,7 +31,7 @@
 
 #### Preparatory
 
-- Introduction to probability theory (YouTube)
+- Introduction to probability theory ([YouTube](https://www.youtube.com/watch?v=1RGMKD5_48s&list=PLXBJk7WTnAgWNib_2rO6EKZ0DiTRfbtSJ), first five videos)
 - Python programming
 
 
@@ -73,8 +73,11 @@
 
 ## Coursework Assignments
 
+- Submit Python notebooks at the end of each week (10%)
+- Project (will need at least EKF) + interview (90%)
+
 ## Assessment Plan
 
-- Coursework to be released on 
-- Deadline:
-- Interviews:
+- Coursework to be released on Week 3 (2 March) or earlier
+- Deadline: 20 April
+- Interviews: 21-24 April
