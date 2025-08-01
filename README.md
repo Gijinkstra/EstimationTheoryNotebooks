@@ -14,4 +14,7 @@ pip install -r requirements.txt
 - [Kalman filter](./kalman)
 - [SysID](./sysid)
 - [Bayesian methods](./bayesian)
+- [Neural networks](./neural)
+
+See also: [Teaching Plan](./meta/TeachingPlan.md)
 
