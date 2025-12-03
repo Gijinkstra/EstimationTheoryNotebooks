@@ -1,10 +1,10 @@
 ## 4. Bayesian estimation
 
-**Before you start:** 
+[*Home*](../README.md)
 
-**About:** 
+**About:** You need to have watched the first three videos from [this playlist](https://www.youtube.com/playlist?list=PLXBJk7WTnAgWNib_2rO6EKZ0DiTRfbtSJ) on YouTube.
 
-**Contents:**
+**Contents:** 
 
 1. [Introduction to optimisation in Python](./1_optimization.ipynb)
 2. [Bayesian estimation](./2_bayesian_fie.ipynb)

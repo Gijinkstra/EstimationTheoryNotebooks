@@ -1,6 +1,9 @@
 ## 2. Kalman filter
 
-**Before you start:** Make sure you have understood [conditioning](../intro/3_conditioning.ipynb)
+[*Home*](../README.md)
+
+**Before you start:** Make sure you have understood [conditioning](../intro/3_conditioning.ipynb).
+**Before you start:** You need to have watched the **first five videos** from [this playlist](https://www.youtube.com/playlist?list=PLXBJk7WTnAgWNib_2rO6EKZ0DiTRfbtSJ).
 
 **About:** In this folder you will find 5+1 Python notebooks.
 We start with the [Gauss-Makov model](./1_gauss_markov.ipynb), which, 

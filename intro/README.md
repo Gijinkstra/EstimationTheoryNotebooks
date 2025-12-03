@@ -1,6 +1,8 @@
 ## 1. Introductory material
 
-**Before you start:** You need to have watched the first three videos from [this playlist](https://www.youtube.com/playlist?list=PLXBJk7WTnAgWNib_2rO6EKZ0DiTRfbtSJ) on YouTube.
+[*Home*](../README.md)
+
+**Before you start:** You need to have watched the **first three videos** from [this playlist](https://www.youtube.com/playlist?list=PLXBJk7WTnAgWNib_2rO6EKZ0DiTRfbtSJ) on YouTube.
 
 **About:** This is a collection of 3+1 Python notebooks serving as a warm-up. 
 We start with [sampling](./1_sampling.ipynb) techniques in Python — sampling is 
@@ -16,4 +18,6 @@ concept of **[conditioning](./3_conditioning.ipynb)** which is of central import
 3. [Conditioning](./3_conditioning.ipynb)
 4. [Tutorial](./4_tutorial.ipynb)
 
-**Next:** [Kalman filter](../kalman/README.md)
+**Where to go next:** 
+1. Watch the **fourth** and **fifth** videos from [this playlist](https://www.youtube.com/playlist?list=PLXBJk7WTnAgWNib_2rO6EKZ0DiTRfbtSJ).
+2. Move on to the [Kalman filter](../kalman/README.md)

@@ -1,5 +1,7 @@
 ## 5. Neural networks
 
+[*Home*](../README.md)
+
 **Before you start:** NN tutorial 
 
 **About:** 

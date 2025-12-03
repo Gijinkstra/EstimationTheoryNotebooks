@@ -8,23 +8,23 @@
 
 ## Material
 
-1. Introduction 
+1. [Introduction](../intro/README.md) 
    1. [Sampling](../intro/1_sampling.ipynb)
    2. [Lotus](../intro/2_lotus.ipynb)
    3. [Conditioning](../intro/3_conditioning.ipynb)
-2. Kalman filter
+2. [Kalman filter](../kalman/README.md)
    1. [Gauss-Markov model](../kalman/1_gauss_markov.ipynb)
    2. [Kalman filter](../kalman/2_kalman_basic.ipynb)
    3. [Positioning](../kalman/3_kf_positioning.ipynb)
    4. [KF Variants](../kalman/4_kalman_variants.ipynb)
    5. [EKF](../kalman/5_ekf.ipynb)
-3. System identification
+3. [System identification](../sysid/README.md)
    1. [Estimation of Matrix *A*](../sysid/1_sysid_basic.ipynb)
    2. [N4SID](../sysid/2_n4sid.ipynb)
-4. Bayesian estimation
+4. [Bayesian estimation](../bayesian/README.md)
    1. [Intro to optimisation](../bayesian/1_optimization.ipynb)
    2. [Bayesian FIE](../bayesian/2_bayesian_fie.ipynb)
-5. Neural networks
+5. [Neural networks](../neural/README.md)
    1. [Physics-informed NNs](../neural/1_pinn.ipynb) 
 
 ## Delivery plan 
@@ -68,7 +68,7 @@
 #### Week 6 (PINN)
 
 - WC 13 April 2026
-- Day 1: [SysID](../sysid/1_sysid_basic.ipynb) and [n4sid](../sysid/2_n4sid.ipynb) (1.5hr); tutorial (1.5hr)
+- Day 1: [SysID](../sysid/1_sysid_basic.ipynb) (1.5hr); tutorial (1.5hr)
 - Day 2: [Physics-informed NNs](../neural/1_pinn.ipynb) (3hr); tutorial in parallel
 
 ## Coursework Assignments
