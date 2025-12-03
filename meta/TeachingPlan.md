@@ -19,13 +19,13 @@
    4. [KF Variants](../kalman/4_kalman_variants.ipynb)
    5. [EKF](../kalman/5_ekf.ipynb)
 3. System identification
-   1. [Estimation of Matrix *A*](../sysid/sysid_basic.ipynb)
-   2. [N4SID](../sysid/n4sid.ipynb)
+   1. [Estimation of Matrix *A*](../sysid/1_sysid_basic.ipynb)
+   2. [N4SID](../sysid/2_n4sid.ipynb)
 4. Bayesian estimation
    1. [Intro to optimisation](../bayesian/1_optimization.ipynb)
    2. [Bayesian FIE](../bayesian/2_bayesian_fie.ipynb)
 5. Neural networks
-   1. [Physics-informed NNs](../neural/pinn.ipynb) 
+   1. [Physics-informed NNs](../neural/1_pinn.ipynb) 
 
 ## Delivery plan 
 
@@ -68,8 +68,8 @@
 #### Week 6 (PINN)
 
 - WC 13 April 2026
-- Day 1: [SysID](../sysid/sysid_basic.ipynb) and [n4sid](../sysid/n4sid.ipynb) (1.5hr); tutorial (1.5hr)
-- Day 2: [Physics-informed NNs](../neural/pinn.ipynb) (3hr); tutorial in parallel
+- Day 1: [SysID](../sysid/1_sysid_basic.ipynb) and [n4sid](../sysid/2_n4sid.ipynb) (1.5hr); tutorial (1.5hr)
+- Day 2: [Physics-informed NNs](../neural/1_pinn.ipynb) (3hr); tutorial in parallel
 
 ## Coursework Assignments
 
