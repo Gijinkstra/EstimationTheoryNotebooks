@@ -50,8 +50,8 @@
 #### Week 3 (Kalman variants)
 
 - WC 2 March 2026
-- Day 1: [Positioning](../kalman/3_kf_positioning.ipynb) (1hr), [KF Variants](../kalman/4_kalman_variants.ipynb) (1hr), Tutorial (1hr)
-- Day 2: [KF Variants](../kalman/4_kalman_variants.ipynb) ; §1-4 (3hr); tutorial in parallel; §5 is CW
+- Day 1: [Positioning](../kalman/3_kf_positioning.ipynb) (1.5hr), [KF Variants](../kalman/4_kalman_variants.ipynb) (1.5hr)
+- Day 2: [KF Variants](../kalman/4_kalman_variants.ipynb) ; §1-4 (+3hr); tutorial in parallel; §5 is CW
 
 #### Week 4 (EKF + Bayesian)
 
