@@ -3,7 +3,7 @@
 [*Home*](../README.md)
 
 **Before you start:** Make sure you have understood [conditioning](../intro/3_conditioning.ipynb).
-**Before you start:** You need to have watched the **first five videos** from [this playlist](https://www.youtube.com/playlist?list=PLXBJk7WTnAgWNib_2rO6EKZ0DiTRfbtSJ).
+You also need to watch the **first five videos** from [this playlist](https://www.youtube.com/playlist?list=PLXBJk7WTnAgWNib_2rO6EKZ0DiTRfbtSJ) on YouTube **as well as** videos [No 12](https://www.youtube.com/watch?v=vjYsR4hYoEU&list=PLXBJk7WTnAgWNib_2rO6EKZ0DiTRfbtSJ&index=12) and [No 13](https://www.youtube.com/watch?v=YFnLIwYFu2Q&list=PLXBJk7WTnAgWNib_2rO6EKZ0DiTRfbtSJ&index=13). 
 
 **About:** In this folder you will find 5+1 Python notebooks.
 We start with the [Gauss-Makov model](./1_gauss_markov.ipynb), which, 

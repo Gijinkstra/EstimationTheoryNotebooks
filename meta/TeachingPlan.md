@@ -73,11 +73,11 @@
 
 ## Coursework Assignments
 
-- Submit Python notebooks at the end of each week (10%)
-- Project (will need at least EKF) + interview (90%)
+- Submit Python notebooks at the end of each week (formative)
+- Project (will need at least EKF) + interview
 
 ## Assessment Plan
 
-- Coursework to be released on Week 3 (2 March) or earlier
-- Deadline: 20 April
+- Coursework to be released around 2/3
+- Planned Deadline: 20 April
 - Interviews: 21-24 April
