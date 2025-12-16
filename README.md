@@ -17,11 +17,11 @@ pip install -r requirements.txt
 
 ### Contents
 
-1. [Introductory](./intro/README.md)
-2. [Kalman filter](./kalman/README.md)
-3. [SysID](./sysid/README.md)
-4. [Bayesian methods](./bayesian/README.md)
-5. [Neural networks](./neural/README.md)
+1. [Introductory](./1_intro/README.md)
+2. [Kalman filter](./2_kalman/README.md)
+3. [SysID](./3_sysid/README.md)
+4. [Bayesian methods](./4_bayesian/README.md)
+5. [Neural networks](./5_neural/README.md)
 
 See also: [Teaching Plan](./meta/TeachingPlan.md)
 

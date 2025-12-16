@@ -20,4 +20,4 @@ concept of **[conditioning](./3_conditioning.ipynb)** which is of central import
 
 **Where to go next:** 
 1. Watch the **fourth** and **fifth** videos from [this playlist](https://www.youtube.com/playlist?list=PLXBJk7WTnAgWNib_2rO6EKZ0DiTRfbtSJ).
-2. Move on to the [Kalman filter](../kalman/README.md)
+2. Move on to the [Kalman filter](../2_kalman/README.md)

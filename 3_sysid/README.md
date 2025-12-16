@@ -30,4 +30,4 @@ Data files:
 1. [tutorial_data.csv](./tutorial_data.csv) - a CSV file you'll need for the tutorial
 2. [example_5.2.csv](./example_5.2.csv) - a CSV file you'll need for the [basic sysid](./1_sysid_basic.ipynb) notebook
 
-**Next:** [Bayesian estimation](../bayesian/README.md)
+**Next:** [Bayesian estimation](../4_bayesian/README.md)
