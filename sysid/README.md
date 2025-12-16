@@ -21,6 +21,7 @@ We do so using the Python library [`n4sid`](./2_n4sid.ipynb).
 
 1. [Basic system identification](./1_sysid_basic.ipynb)
 2. [n4sid](./2_n4sid.ipynb)*
-3. [Tutorial](./6_tutorial.ipynb)
+3. [Tutorial](./3_tutorial.ipynb)
+4. [data.csv](./data.csv) - a CSV file you'll need for the tutorial
 
 **Next:** [Bayesian estimation](../bayesian/README.md)
