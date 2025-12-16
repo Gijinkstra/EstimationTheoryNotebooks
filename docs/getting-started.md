@@ -25,7 +25,7 @@ to use your own favourite IDE if you are an experienced user.
 ### 2.1. Installation of VS Code
 
 You can easily download and install VS Code on [Windows](https://code.visualstudio.com/docs/setup/windows),
-[Linux](https://code.visualstudio.com/docs/setup/linux) (you'll get a `deb`) file,
+[Linux](https://code.visualstudio.com/docs/setup/linux) (you'll get a `deb` file),
 or [mac OS](https://code.visualstudio.com/docs/setup/mac). 
 
 ### 2.2. Installation of Python
